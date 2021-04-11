@@ -1,0 +1,73 @@
+F:\&-Programming II\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+F:\&-Programming II\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\PipeServer.csprojResolveAssemblyReference.cache
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\Pipes.Form1.resources
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\Pipes.Properties.Resources.resources
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.Cache
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+F:\@ Programming III\Pipes activities\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+F:\@ Programming III\Pipes activities\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+E:\Programming 3\Session 6 - Multi Process Application\Pipe Activity\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+E:\Programming 3\Session 6 - Multi Process Application\Pipe Activity\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+E:\Programming 3\Session 6 - Multi Process Application\Pipe Activity\PipeServer\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+E:\Programming 3\Session 6 - Multi Process Application\Pipe Activity\PipeServer\PipeServer\obj\Debug\Pipes.Form1.resources
+E:\Programming 3\Session 6 - Multi Process Application\Pipe Activity\PipeServer\PipeServer\obj\Debug\Pipes.Properties.Resources.resources
+E:\Programming 3\Session 6 - Multi Process Application\Pipe Activity\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.cache
+E:\Programming 3\Session 6 - Multi Process Application\Pipe Activity\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.CoreCompileInputs.cache
+E:\Programming 3\Session 6 - Multi Process Application\Pipe Activity\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+E:\Programming 3\Session 6 - Multi Process Application\Pipe Activity\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+E:\Programming 3\Exercises\ServerClientLogIn\VersionB\One\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+E:\Programming 3\Exercises\ServerClientLogIn\VersionB\One\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+E:\Programming 3\Exercises\ServerClientLogIn\VersionB\One\PipeServer\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+E:\Programming 3\Exercises\ServerClientLogIn\VersionB\One\PipeServer\PipeServer\obj\Debug\Pipes.Form1.resources
+E:\Programming 3\Exercises\ServerClientLogIn\VersionB\One\PipeServer\PipeServer\obj\Debug\Pipes.Properties.Resources.resources
+E:\Programming 3\Exercises\ServerClientLogIn\VersionB\One\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.cache
+E:\Programming 3\Exercises\ServerClientLogIn\VersionB\One\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.CoreCompileInputs.cache
+E:\Programming 3\Exercises\ServerClientLogIn\VersionB\One\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+E:\Programming 3\Exercises\ServerClientLogIn\VersionB\One\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+E:\Programming 3\Exercises\ServerClientLogIn\VersionC\Two\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+E:\Programming 3\Exercises\ServerClientLogIn\VersionC\Two\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+E:\Programming 3\Exercises\ServerClientLogIn\VersionC\Two\PipeServer\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+E:\Programming 3\Exercises\ServerClientLogIn\VersionC\Two\PipeServer\PipeServer\obj\Debug\Pipes.Form1.resources
+E:\Programming 3\Exercises\ServerClientLogIn\VersionC\Two\PipeServer\PipeServer\obj\Debug\Pipes.Properties.Resources.resources
+E:\Programming 3\Exercises\ServerClientLogIn\VersionC\Two\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.cache
+E:\Programming 3\Exercises\ServerClientLogIn\VersionC\Two\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.CoreCompileInputs.cache
+E:\Programming 3\Exercises\ServerClientLogIn\VersionC\Two\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+E:\Programming 3\Exercises\ServerClientLogIn\VersionC\Two\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+E:\Programming 3\Assessments\AT3\IPC\Version B\1\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+E:\Programming 3\Assessments\AT3\IPC\Version B\1\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+E:\Programming 3\Assessments\AT3\IPC\Version B\1\PipeServer\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+E:\Programming 3\Assessments\AT3\IPC\Version B\1\PipeServer\PipeServer\obj\Debug\Pipes.Form1.resources
+E:\Programming 3\Assessments\AT3\IPC\Version B\1\PipeServer\PipeServer\obj\Debug\Pipes.Properties.Resources.resources
+E:\Programming 3\Assessments\AT3\IPC\Version B\1\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.cache
+E:\Programming 3\Assessments\AT3\IPC\Version B\1\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.CoreCompileInputs.cache
+E:\Programming 3\Assessments\AT3\IPC\Version B\1\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+E:\Programming 3\Assessments\AT3\IPC\Version B\1\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+E:\Programming 3\Assessments\AT3\Version 2\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+E:\Programming 3\Assessments\AT3\Version 2\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+E:\Programming 3\Assessments\AT3\Version 2\PipeServer\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+E:\Programming 3\Assessments\AT3\Version 2\PipeServer\PipeServer\obj\Debug\Pipes.FormServer.resources
+E:\Programming 3\Assessments\AT3\Version 2\PipeServer\PipeServer\obj\Debug\Pipes.Properties.Resources.resources
+E:\Programming 3\Assessments\AT3\Version 2\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.cache
+E:\Programming 3\Assessments\AT3\Version 2\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.CoreCompileInputs.cache
+E:\Programming 3\Assessments\AT3\Version 2\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+E:\Programming 3\Assessments\AT3\Version 2\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+E:\Programming 3\Assessments\AT3\Version B\Version 3\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+E:\Programming 3\Assessments\AT3\Version B\Version 3\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+E:\Programming 3\Assessments\AT3\Version B\Version 3\PipeServer\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+E:\Programming 3\Assessments\AT3\Version B\Version 3\PipeServer\PipeServer\obj\Debug\Pipes.FormServer.resources
+E:\Programming 3\Assessments\AT3\Version B\Version 3\PipeServer\PipeServer\obj\Debug\Pipes.Properties.Resources.resources
+E:\Programming 3\Assessments\AT3\Version B\Version 3\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.cache
+E:\Programming 3\Assessments\AT3\Version B\Version 3\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.CoreCompileInputs.cache
+E:\Programming 3\Assessments\AT3\Version B\Version 3\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+E:\Programming 3\Assessments\AT3\Version B\Version 3\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\obj\Debug\Pipes.FormServer.resources
+E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\obj\Debug\Pipes.Properties.Resources.resources
+E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.cache
+E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.CoreCompileInputs.cache
+E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
