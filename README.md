@@ -1,4 +1,6 @@
-# JMCMusicPlayer-CSharp
+<h1>JMCMusicPlayer-CSharp</h1>
+
+<em>This project is developed according to South Metropolitan TAFE requirements.</em>
 
  * Developer: Jose Rico Imbang
  * Student Id: 30019932
@@ -6,6 +8,12 @@
  * AT3 - Project
  * South Metropolitan TAFE, Diploma of Software Development
  * Third party library link - https://www.codeproject.com/Articles/9258/A-Fast-CSV-Reader
+
+<h2>Introduction</h2>
+
+There are two applications for this project – the Server and the Client. The former serves as the server on which the Client application can connect through Inter Process Communication (IPC) using Named Pipes, as long as they are on the same network. The Server application needs to be running before the Client application can request to establish a connection.
+Once the Server is up and running, the user can open the Client application. The user will be prompted to enter his login details, and once entered, he can then click the Log In button and the Client application will send the information to the Server. The Server hashes the password then verifies the username and the hashed password. The user is prompted if the login details are incorrect. But if it is correct, the login window hides, and the music player window is shown. The UI of the Server application also shows a message that the Client is able to establish a connection. The user can add songs using the Add Songs button. The full path of the songs is saved in a CSV file so a third-party library is used to read those information. They are then saved into an AVL Tree. The unsorted names of the songs are then listed on the ListBox. There is a TextBox that the user can use to search for a specific song. Once the user typed in the name of the song into the TextBox, he then can click the Search button. The algorithm that is used to search songs is Binary Search. If the song is found, Windows Media Player plays it and the song’s name that is on the ListBox is highlighted. There is also a button to Sort the songs and it uses Merge Sort. 
+ 
 <br>
 <table border="1" cellpadding="4" cellspacing="0">
   <thead>
