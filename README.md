@@ -45,7 +45,7 @@
       <td>Case 4</td>
       <td>Click Log In button</td>
       <td>The Log In form hides and the Music Player form is shown. The Server app shows a message that the connection with a Client is established.</td>
-      <td><img src="images/ref4.jpg"></td>
+      <td><img src="images/ref4.png"></td>
     </tr>
   </tbody>
   <tbody>
