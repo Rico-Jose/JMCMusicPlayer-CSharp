@@ -81,7 +81,10 @@ namespace Pipes
             string clientPassword = GetMD5(arrStr[1]);
 
             if (serverUsername.Equals(clientUsername) && serverPassword.Equals(clientPassword))
+            {
+                tbPipeName.Text = "Connection with Client 1 is established";
                 Send("yes");
+            }
             else
                 Send("no");
         }

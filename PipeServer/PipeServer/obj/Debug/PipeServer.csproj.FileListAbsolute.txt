@@ -71,3 +71,12 @@ E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\obj\Debu
 E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
 E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\bin\Debug\PipeServer.exe
 E:\Programming 3\Assessments\AT3\JMC Music Player\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\PipeServer\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\PipeServer\PipeServer\obj\Debug\Pipes.FormServer.resources
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\PipeServer\PipeServer\obj\Debug\Pipes.Properties.Resources.resources
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.cache
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.CoreCompileInputs.cache
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\PipeServer\PipeServer\obj\Debug\PipeServer.pdb

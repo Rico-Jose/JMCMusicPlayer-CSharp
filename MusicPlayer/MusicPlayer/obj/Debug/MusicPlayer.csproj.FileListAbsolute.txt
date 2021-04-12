@@ -113,3 +113,21 @@ E:\Programming 3\Assessments\AT3\JMC Music Player\MusicPlayer\MusicPlayer\obj\De
 E:\Programming 3\Assessments\AT3\JMC Music Player\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
 E:\Programming 3\Assessments\AT3\JMC Music Player\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
 E:\Programming 3\Assessments\AT3\JMC Music Player\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.LogInForm.resources
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.MusicPlayerForm.resources
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\Rico PC\Documents\TAFE\Programming 3\Assessments\AT3\JMCMusicPlayer-CSharp\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
